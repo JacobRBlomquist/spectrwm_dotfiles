@@ -66,3 +66,4 @@ AUR helper is PARU:
 * polybar
 * gotop
 * brave-bin
+
