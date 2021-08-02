@@ -45,6 +45,7 @@ xset r rate 280 40 # default is 650 25
 /home/jacob/.screenlayout/main.sh
 /home/jacob/.config/polybar/launch.sh
 nm-applet &
+volumeicon &
 
 # Wallpaper
 feh --bg-scale /home/jacob/Pictures/wallpaper/wallpaper.jpg
