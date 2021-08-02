@@ -47,6 +47,7 @@ These Jacob Blomquist's dotfiles for his Spectrwm Arch Build.
 * trash-cli
 * xlockmore
 * volumeicon
+* xclip
 
 #### Fonts
 
