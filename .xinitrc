@@ -50,6 +50,9 @@ volumeicon &
 feh --bg-scale /home/jacob/Pictures/wallpaper/wallpaper.jpg
 /home/jacob/.config/polybar/launch.sh
 
+# Compositor
+picom &
+
 exec spectrwm
 
 # kill tray

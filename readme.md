@@ -49,6 +49,7 @@ These Jacob Blomquist's dotfiles for his Spectrwm Arch Build.
 * volumeicon
 * xclip
 * arc-gtk-theme
+* picom
 
 #### Fonts
 
