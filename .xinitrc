@@ -47,7 +47,7 @@ nm-applet &
 volumeicon &
 
 # Wallpaper
-feh --bg-scale /home/jacob/Pictures/wallpaper/wallpaper.jpg
+feh --bg-scale --randomize /home/jacob/Pictures/wallpaper/*
 /home/jacob/.config/polybar/launch.sh
 
 # Compositor

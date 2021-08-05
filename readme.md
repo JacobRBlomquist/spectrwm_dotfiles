@@ -71,4 +71,5 @@ AUR helper is PARU:
 * polybar
 * gotop
 * brave-bin
+* dcron (enable in systemd)
 
