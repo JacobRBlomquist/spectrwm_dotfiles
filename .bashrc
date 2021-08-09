@@ -9,6 +9,7 @@
 alias ls='ls --color=auto'
 alias rm='echo "** use \"trash\" or if you must /bin/rm **"'
 alias vim='nvim '
+alias ssh='TERM=xterm-256color ssh '
 
 function nonzero_return() {
 	RETVAL=$?
