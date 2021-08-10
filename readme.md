@@ -51,6 +51,7 @@ These Jacob Blomquist's dotfiles for his Spectrwm Arch Build.
 * arc-gtk-theme
 * picom
 * newsboat
+* gpicview
 
 #### Fonts
 
