@@ -52,6 +52,7 @@ These Jacob Blomquist's dotfiles for his Spectrwm Arch Build.
 * picom
 * newsboat
 * gpicview
+* bless (hex editor)
 
 #### Fonts
 
